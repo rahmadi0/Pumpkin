@@ -41,5 +41,7 @@ This Java application was created using the following technologies:
 
 - **Custom JPanel:** The `JOLPanel` class extends JPanel, providing a canvas for drawing the pumpkin, while the `DrawPumpkin` class handles the actual drawing logic.
 
+![Pumpkin Drawing](pumpkin.png)
+
 ## Author
 Roman Ahmadi
